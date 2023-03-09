@@ -33,6 +33,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--primary-text-color);
 }
 .section-title {
   font-weight: 700;
@@ -65,7 +66,7 @@ body {
 .logo-thema-light{
   color: var(--nav-color);
 }
-.menu {
+.menu-item {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -79,9 +80,10 @@ body {
   color: var(--nav-accent-color);
 }
 
+.contacts-list{font-style: normal;}
 .contacts-item {
   color: var(--primary-text-color);
-  font-style: normal;
+  
 
   font-size: 16px;
   line-height: 1.5;
