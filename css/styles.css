@@ -72,7 +72,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--nav-color)
+  color: var(--nav-color);
 }
 
 .link:hover,
